@@ -16,4 +16,4 @@ This is a web-based application that allows users to upload an image and convert
 - **Responsive Design**: Media queries for mobile and desktop views.
 
 ## License
-This project is open-source and available under the [MIT License]()
+This project is open-source and available under the [MIT License](https://github.com/AyushGorlawar/Image-to-Pencil-Sketch-Converter-using-AI/blob/main/LICENSE)
